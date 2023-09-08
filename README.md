@@ -24,7 +24,8 @@ Useful sources:
 - [Torch](https://infoscience.epfl.ch/record/82802/files/rr02-46.pdf):	Collobert, Ronan, Samy Bengio, and Johnny Mariéthoz. Torch: a modular machine learning software library. No. REP_WORK. Idiap, 2002.
 - [MLJ](https://arxiv.org/pdf/2007.12285):	Blaom, Anthony D., et al. "MLJ: A Julia package for composable machine learning." arXiv preprint arXiv:2007.12285 (2020).
 - [Caret](https://ui.adsabs.harvard.edu/abs/2015ascl.soft05003K/abstract):	Kuhn, Max. "Caret: classification and regression training." Astrophysics Source Code Library (2015): ascl-1505.
-- [Weka](https://researchcommons.waikato.ac.nz/bitstream/handle/10289/1138/uow-cs-wp-1994-09.pdf?sequence=1):	Holmes, Geoffrey, Andrew Donkin, and Ian H. Witten. "Weka: A machine learning workbench." Proceedings of ANZIIS'94-Australian New Zealnd Intelligent Information Systems Conference. IEEE, 1994.
+- [Weka (1)](https://researchcommons.waikato.ac.nz/bitstream/handle/10289/1138/uow-cs-wp-1994-09.pdf?sequence=1):	Holmes, Geoffrey, Andrew Donkin, and Ian H. Witten. "Weka: A machine learning workbench." Proceedings of ANZIIS'94-Australian New Zealnd Intelligent Information Systems Conference. IEEE, 1994.
+- [Weka (2)](https://www.jmlr.org/papers/volume11/bouckaert10a/bouckaert10a.pdf):	Bouckaert, Remco R., et al. "WEKA---Experiences with a Java Open-Source Project." The Journal of Machine Learning Research 11 (2010): 2533-2541.
 - [XGBoost](https://dl.acm.org/doi/pdf/10.1145/2939672.2939785):	Chen, Tianqi, and Carlos Guestrin. "XGBoost: A scalable tree boosting system." Proceedings of the 22nd acm sigkdd international conference on knowledge discovery and data mining. 2016.
 - [NLTK](https://aclanthology.org/P06-4018.pdf):	Bird, Steven. NLTK: the natural language toolkit." Proceedings of the COLING/ACL 2006 Interactive Presentation Sessions. 2006.
 
