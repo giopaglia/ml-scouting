@@ -27,3 +27,11 @@ Useful sources:
 - [Caret](https://ui.adsabs.harvard.edu/abs/2015ascl.soft05003K/abstract):	Kuhn, Max. "Caret: classification and regression training." Astrophysics Source Code Library (2015): ascl-1505.
 - [Weka](https://researchcommons.waikato.ac.nz/bitstream/handle/10289/1138/uow-cs-wp-1994-09.pdf?sequence=1):	Holmes, Geoffrey, Andrew Donkin, and Ian H. Witten. "Weka: A machine learning workbench." Proceedings of ANZIIS'94-Australian New Zealnd Intelligent Information Systems Conference. IEEE, 1994.
 - [NLTK](https://aclanthology.org/P06-4018.pdf):	Bird, Steven. NLTK: the natural language toolkit." Proceedings of the COLING/ACL 2006 Interactive Presentation Sessions. 2006.
+
+### Candidate journals for publishing new frameworks
+
+- [Journal of Machine Learning Research](https://www.scimagojr.com/journalsearch.php?q=20969&tip=sid&clean=0)
+- [Journal of Information and Software Technology](https://www.scimagojr.com/journalsearch.php?q=18732&tip=sid&clean=0)
+- [Algorithms](https://www.scimagojr.com/journalsearch.php?q=21100199795&tip=sid&clean=0)
+- [Applied Computing and Informatics](https://www.scimagojr.com/journalsearch.php?q=21100862637&tip=sid&clean=0)
+- [Journal of Open Source Software](https://joss.theoj.org/)
