@@ -12,7 +12,7 @@
 | C#    |    ML.NET, Accord.NET, ML-Agents    |
 | Go    |    GoLearn, Gorgonia    |
 
-
+aoeuhna
 Useful sources:
 - https://www.codecademy.com/resources/blog/machine-learning-programming-languages/
 		
@@ -28,7 +28,7 @@ Useful sources:
 - [Weka](https://researchcommons.waikato.ac.nz/bitstream/handle/10289/1138/uow-cs-wp-1994-09.pdf?sequence=1):	Holmes, Geoffrey, Andrew Donkin, and Ian H. Witten. "Weka: A machine learning workbench." Proceedings of ANZIIS'94-Australian New Zealnd Intelligent Information Systems Conference. IEEE, 1994.
 - [NLTK](https://aclanthology.org/P06-4018.pdf):	Bird, Steven. NLTK: the natural language toolkit." Proceedings of the COLING/ACL 2006 Interactive Presentation Sessions. 2006.
 
-### Candidate journals for publishing new frameworks
+### Candidate journals for publishing frameworks
 
 - [Journal of Machine Learning Research](https://www.scimagojr.com/journalsearch.php?q=20969&tip=sid&clean=0)
 - [Journal of Information and Software Technology](https://www.scimagojr.com/journalsearch.php?q=18732&tip=sid&clean=0)
