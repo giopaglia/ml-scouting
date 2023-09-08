@@ -3,7 +3,7 @@
 | Language  | ML Libraries |
 | ------------- | ------------- |
 | Julia  | Flux, JuliaDB, MLJ, XGBoost  |
-| Python    |    Scikit Learn, TensorFlow, PyTorch, Keras, XGBoost    |
+| Python    |    Scikit Learn, TensorFlow, PyTorch, Keras, Theano, XGBoost    |
 | Java    |    Weka, ADAMS, JavaML, Neuroph    |
 | R    |    caret, e1071, PARTY, rpart, randomFOREST, XGBoost    |
 | MATLAB    |    Statistics and Machine Learning Toolbox, Deep Learning Toolbox, Computer Vision Toolbox    |
