@@ -17,7 +17,7 @@ Useful sources:
 		
 ### Scientific references
 
-| Entry  | Paper | Year |
+| Year	|	Entry  | Paper |
 | ------------- | ------------- | ------------- |
 |	1994	| Weka (1) |	[Holmes, Geoffrey, Andrew Donkin, and Ian H. Witten. "Weka: A machine learning workbench." Proceedings of ANZIIS'94-Australian New Zealnd Intelligent Information Systems Conference. IEEE, 1994.](https://researchcommons.waikato.ac.nz/bitstream/handle/10289/1138/uow-cs-wp-1994-09.pdf?sequence=1)	|
 |	2002	| Torch |	[Collobert, Ronan, Samy Bengio, and Johnny Mariéthoz. Torch: a modular machine learning software library. No. REP_WORK. Idiap, 2002.](https://infoscience.epfl.ch/record/82802/files/rr02-46.pdf)	|
