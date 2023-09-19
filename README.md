@@ -26,11 +26,12 @@ Useful sources:
 |	2011	| Scikit-learn |	[Pedregosa, Fabian, et al. "Scikit-learn: Machine learning in Python." the Journal of machine Learning research 12 (2011): 2825-2830.](https://www.jmlr.org/papers/volume12/pedregosa11a/pedregosa11a.pdf)	|
 |	2012	| Theano |	[Bastien, Frédéric, et al. "Theano: new features and speed improvements." arXiv preprint arXiv:1211.5590 (2012).](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=71fd0f03a01cf8adb4919d2b1fe7b0a25ad0ca90)	|
 |	2014	| Caffe |	[Jia, Yangqing, et al. "Caffe: Convolutional architecture for fast feature embedding." Proceedings of the 22nd ACM international conference on Multimedia. 2014.](https://arxiv.org/pdf/1408.5093)	|
-<!-- |	2015	| Caret |	[Kuhn, Max. "Caret: classification and regression training." Astrophysics Source Code Library (2015): ascl-1505.](https://ui.adsabs.harvard.edu/abs/2015ascl.soft05003K/abstract)	| -->
 |	2016	| TensorFlow |	[Abadi, Martín, et al. "TensorFlow: a system for Large-Scale machine learning." 12th USENIX symposium on operating systems design and implementation (OSDI 16). 2016.](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf)	|
 |	2016	| XGBoost |	[Chen, Tianqi, and Carlos Guestrin. "XGBoost: A scalable tree boosting system." Proceedings of the 22nd acm sigkdd international conference on knowledge discovery and data mining. 2016.](https://dl.acm.org/doi/pdf/10.1145/2939672.2939785)	|
 |	2018	| Flux |	[Innes, Mike. "Flux: Elegant machine learning with Julia." Journal of Open Source Software 3.25 (2018): 602.](https://joss.theoj.org/papers/10.21105/joss.00602.pdf)	|
 |	2020	| MLJ |	[Blaom, Anthony D., et al. "MLJ: A Julia package for composable machine learning." arXiv preprint arXiv:2007.12285 (2020).](https://arxiv.org/pdf/2007.12285)	|
+
+<!-- |	2015	| Caret |	[Kuhn, Max. "Caret: classification and regression training." Astrophysics Source Code Library (2015): ascl-1505.](https://ui.adsabs.harvard.edu/abs/2015ascl.soft05003K/abstract)	| -->
 
 ### Candidate journals for publishing frameworks
 
